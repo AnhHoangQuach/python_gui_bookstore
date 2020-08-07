@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['frontend.py'],
-             pathex=['F:\\Python\\Code Python\\app5\\main'],
+             pathex=['C:\\xampp\\htdocs\\Web Udemy Test\\python_gui_bookstore'],
              binaries=[],
              datas=[],
              hiddenimports=[],
